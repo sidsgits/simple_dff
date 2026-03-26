@@ -1,4 +1,4 @@
-`timescale 1us/1us
+ls`timescale 1us/1us
 
 module dff (
   input logic clk, d,
